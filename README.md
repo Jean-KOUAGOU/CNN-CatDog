@@ -1,6 +1,6 @@
 # Cat and Dog classifier
 
-In this project we build a Convolutional Neural Network (CNN) to classify dogs and cats. The model has two versions, a single hidden layer model and a 4 hidden layers model. We also implemented a class for for preprocessing/loading the data.
+In this project we build a Convolutional Neural Network (CNN) to classify dogs and cats. The model has two versions, a single hidden layer model and a 4 hidden layers model. We also implemented a class for preprocessing/loading the data.
 
 # Prerequisites and Installation
 
