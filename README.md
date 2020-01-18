@@ -7,6 +7,9 @@ In this project we build a Convolutional Neural Network (CNN) to classify dogs a
 Open the requirements.txt to find out the packages required then install them before you proceed to running the code.
 For example, you will need to install pytorch. You may also need to download the data, then copy and paste the following link into your browser https://drive.google.com/drive/folders/1Wm2RcKtBSMipyjt8m6jg_tE04yGG8C-Z?usp=sharing
 
+# How to run:
+
+Put all Python files in the same folder together with the data, then run the main.py file in a terminal or any Python IDE 
 
 # Author
 
