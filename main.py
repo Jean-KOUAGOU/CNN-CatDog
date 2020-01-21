@@ -110,13 +110,13 @@ def test(model, perm=torch.arange(0, 50176).long()):
 
 n_features = 8 # number of feature maps
 
-#model_cnn = CNN(input_size, n_features, output_size)
-#optimizer = optim.SGD(model_cnn.parameters(), lr=0.01, momentum=0.5)
-#print('Number of parameters: {}'.format(get_n_params(model_cnn)))
+model_cnn = CNN(input_size, n_features, output_size)
+optimizer = optim.SGD(model_cnn.parameters(), lr=0.01, momentum=0.5)
+print('Number of parameters: {}'.format(get_n_params(model_cnn)))
 
-#for epoch in range(0, 1):
-#    train(epoch, model_cnn)
-#    test(model_cnn)
+for epoch in range(0, 1):
+    train(epoch, model_cnn)
+    test(model_cnn)
     
 
 print("Multiple hidden layers CNN model:")
