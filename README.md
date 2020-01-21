@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./images/someimg.jpg "Cat and Dog"
+[image1]: ./images/someimg.png "Cat and Dog"
 [image2]: ./images/model.png "Model Screen"
 
 [image3]: ./images//model_detailed.png "Model Architecture"
