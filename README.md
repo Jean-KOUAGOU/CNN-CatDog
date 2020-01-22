@@ -1,6 +1,22 @@
+[//]: # (Image References)
+
+[image1]: ./images/someimg.png "Cat and Dog"
+[image2]: ./images/modelcnn.png "Model Screen"
+
+[image3]: ./images//model_detailed.png "Model Architecture"
+
+![Cat and Dog][image1]
+
 # Cat and Dog classifier
 
 In this project we build a Convolutional Neural Network (CNN) to classify dogs and cats. The model has two versions, a single hidden layer model and a 4 hidden layers model. We also implemented a class for preprocessing/loading the data.
+The four layer model is as follows:
+
+![Model Screen][image2]
+
+and its architecture is:
+
+![Model Architecture][image3]
 
 # Prerequisites and Installation
 
