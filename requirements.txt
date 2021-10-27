@@ -24,7 +24,7 @@ mkl-random==1.1.0
 mkl-service==2.3.0
 multiprocess==0.70.9
 networkx==2.4
-nltk==3.4.5
+nltk==3.6.5
 numpy==1.18.1
 olefile==0.46
 osqp==0.6.1
