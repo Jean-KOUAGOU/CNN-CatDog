@@ -5,7 +5,7 @@ cloudpickle==1.2.2
 cvxpy==1.0.25
 cycler==0.10.0
 cytoolz==0.10.1
-dask==2.9.1
+dask==2021.10.0
 decorator==4.4.1
 dill==0.3.1.1
 ecos==2.0.7.post1
