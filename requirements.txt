@@ -46,6 +46,6 @@ toolz==0.10.0
 torch==1.4.0
 torchvision==0.5.0
 tornado==6.0.3
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 wrapt==1.11.2
 xgboost==0.90
